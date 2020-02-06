@@ -1,0 +1,14 @@
+﻿.holds-the-iframe {
+    background: url(./img/giphy.gif) top center no-repeat;
+}
+
+.margintop80 {
+    margin-top: -80px;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
